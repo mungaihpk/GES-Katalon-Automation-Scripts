@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-VerifyLogin" time="19" tests="0" failures="0" errors="1">
+   <testsuite name="TS-VerifyLogin" tests="0" failures="0" errors="1" time="19" timestamp="2018-01-09 17:15:19" hostname="ishmael - sheban" id="Test Suites/TS-Login/TS-VerifyLogin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_171509"/>
+         <property name="logFiles" value="C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_171509\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ishmael - sheban"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="browser" value="Chrome 63.0.3239.132"/>
+         <property name="hostAddress" value="10.0.2.15"/>
+         <property name="sessionId" value="eed1f2e9bc46b3ae9851ed0ce4de39e7"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin" classname="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin" status="ERROR">
+         <error type="ERROR" message="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)"/>
+         <system-out><![CDATA[2018-01-09 17:15:21 - [TEST_CASE][ERROR] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)
+
+2018-01-09 17:15:26 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-09 17:15:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-09 17:15:34 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:15:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:15:36 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-09 17:15:37 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-09 17:15:37 - [TEST_STEP][PASSED] - navigateToUrl: null]]></system-out>
+         <system-err><![CDATA[2018-01-09 17:15:21 - [TEST_CASE][ERROR] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-01-09 17:15:19 - [TEST_SUITE][ERROR] - TS-VerifyLogin: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)]]></system-out>
+      <system-err><![CDATA[2018-01-09 17:15:19 - [TEST_SUITE][ERROR] - TS-VerifyLogin: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl() is applicable for argument types: (java.lang.Class) values: [class java.net.URL]
+Possible solutions: navigateToUrl(java.lang.String), navigateToUrl(java.lang.String, com.kms.katalon.core.model.FailureHandling)]]></system-err>
+   </testsuite>
+</testsuites>

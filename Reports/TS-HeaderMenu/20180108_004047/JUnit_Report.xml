@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-HeaderMenu" time="726" tests="9" failures="1" errors="0">
+   <testsuite name="TS-HeaderMenu" tests="9" failures="1" errors="0" time="726" timestamp="2018-01-08 00:40:54" hostname="ishmael - 10.0.2.15" id="Test Suites/TS-HeaderMenu">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047"/>
+         <property name="logFiles" value="C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361287946.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361352989.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361403801.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361404342.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361433003.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361480938.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361512209.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361512658.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361513044.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361533059.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361585710.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361614142.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361614787.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361636836.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361694271.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361728989.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361729373.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361729617.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361747542.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361871936.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361978735.png, C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361979231.png"/>
+         <property name="hostName" value="ishmael - 10.0.2.15"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="browser" value="Chrome 63.0.3239.84"/>
+         <property name="hostAddress" value="10.0.2.15"/>
+         <property name="sessionId" value="61620fd5d81ee5bfd5c40ab357fc85b3"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/Header menu/Login/TS-Login/TC-Login" classname="Test Cases/Header menu/Login/TS-Login/TC-Login" status="PASSED">
+         <system-out><![CDATA[2018-01-08 00:40:55 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:40:58 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:41:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:41:04 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:41:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:41:06 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:41:07 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:41:07 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:41:20 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:41:20 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:41:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:41:23 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:41:24 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:41:24 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:41:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:41:25 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:41:25 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:41:25 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:41:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:41:27 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:41:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361287946.png]]
+
+2018-01-08 00:41:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:42:01 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:42:01 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:42:02 - [MESSAGE][PASSED] - Delayed 1 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Login/VT-Login/VT-Login" classname="Test Cases/Header menu/Login/VT-Login/VT-Login" status="PASSED">
+         <system-out><![CDATA[2018-01-08 00:42:02 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/VT-Login/VT-Login: Test Cases/Header menu/Login/VT-Login/VT-Login
+
+2018-01-08 00:42:02 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:42:02 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:42:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:42:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-08 00:42:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:42:06 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:42:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:42:08 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:42:09 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:42:09 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:42:26 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:42:26 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:42:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:42:29 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:42:29 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:42:29 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:42:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:42:30 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:42:30 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:42:30 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:42:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:42:32 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:42:33 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361352989.png]]
+
+2018-01-08 00:42:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:43:22 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:43:22 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:43:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:43:23 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:43:23 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:43:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361403801.png]]
+
+2018-01-08 00:43:24 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Home' is present on page 
+
+2018-01-08 00:43:24 - [MESSAGE][PASSED] - Text 'Home' is present on page 
+
+2018-01-08 00:43:24 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:43:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361404342.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Menu text/Grower Enterprise System/TS-Grower Enterprise System/TC-GrowerEnterpriseSystem" classname="Test Cases/Header menu/Menu text/Grower Enterprise System/TS-Grower Enterprise System/TC-GrowerEnterpriseSystem" status="PASSED">
+         <system-out><![CDATA[2018-01-08 00:43:24 - [TEST_CASE][PASSED] - Test Cases/Header menu/Menu text/Grower Enterprise System/TS-Grower Enterprise System/TC-GrowerEnterpriseSystem: Test Cases/Header menu/Menu text/Grower Enterprise System/TS-Grower Enterprise System/TC-GrowerEnterpriseSystem
+
+2018-01-08 00:43:25 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:43:25 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:43:25 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:43:25 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-08 00:43:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:43:29 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:43:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:43:31 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:43:32 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:43:32 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:43:46 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:43:46 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:43:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:43:48 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:43:49 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:43:49 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:43:50 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:43:50 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:43:50 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:43:50 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:43:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:43:52 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:43:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361433003.png]]
+
+2018-01-08 00:43:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:44:15 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:44:15 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:44:16 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:44:16 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:44:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-GES/TO-GES' is clicked on
+
+2018-01-08 00:44:17 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-GES/TO-GES' is clicked on
+
+2018-01-08 00:44:17 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:44:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:44:19 - [TEST_STEP][PASSED] - back: Navigate back successfully
+
+2018-01-08 00:44:20 - [MESSAGE][PASSED] - Navigate back successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Menu text/Grower Enterprise System/VT-Grower Enterprise System/VT-GrowerEnterpriseSystem" classname="Test Cases/Header menu/Menu text/Grower Enterprise System/VT-Grower Enterprise System/VT-GrowerEnterpriseSystem" status="PASSED">
+         <system-out><![CDATA[2018-01-08 00:44:20 - [TEST_CASE][PASSED] - Test Cases/Header menu/Menu text/Grower Enterprise System/VT-Grower Enterprise System/VT-GrowerEnterpriseSystem: Test Cases/Header menu/Menu text/Grower Enterprise System/VT-Grower Enterprise System/VT-GrowerEnterpriseSystem
+
+2018-01-08 00:44:20 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/VT-Login/VT-Login' successfully
+
+2018-01-08 00:44:20 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/VT-Login/VT-Login: Test Cases/Header menu/Login/VT-Login/VT-Login
+
+2018-01-08 00:44:20 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:44:21 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:44:21 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:44:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-08 00:44:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:44:24 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:44:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:44:26 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:44:27 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:44:27 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:44:34 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:44:34 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:44:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:44:36 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:44:37 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:44:37 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:44:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:44:38 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:44:38 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:44:38 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:44:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:44:40 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:44:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361480938.png]]
+
+2018-01-08 00:44:41 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:45:11 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:45:11 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:45:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:45:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:45:12 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:45:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361512209.png]]
+
+2018-01-08 00:45:12 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Home' is present on page 
+
+2018-01-08 00:45:12 - [MESSAGE][PASSED] - Text 'Home' is present on page 
+
+2018-01-08 00:45:12 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:45:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361512658.png]]
+
+2018-01-08 00:45:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/VT-Login/VT-Login' successfully
+
+2018-01-08 00:45:12 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Home' is present on page 
+
+2018-01-08 00:45:13 - [MESSAGE][PASSED] - Text 'Home' is present on page 
+
+2018-01-08 00:45:13 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:45:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361513044.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Menu text/Home/TS-Home/TC-Home" classname="Test Cases/Header menu/Menu text/Home/TS-Home/TC-Home" status="PASSED">
+         <system-out><![CDATA[2018-01-08 00:45:13 - [TEST_CASE][PASSED] - Test Cases/Header menu/Menu text/Home/TS-Home/TC-Home: Test Cases/Header menu/Menu text/Home/TS-Home/TC-Home
+
+2018-01-08 00:45:14 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:45:14 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:45:14 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:45:14 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-08 00:45:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:45:17 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:45:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:45:19 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:45:20 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:45:20 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:45:26 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:45:26 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:45:28 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:45:28 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:45:29 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:45:29 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:45:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:45:30 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:45:30 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:45:30 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:45:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:45:33 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:45:33 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361533059.png]]
+
+2018-01-08 00:45:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:45:55 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:45:55 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:45:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:45:56 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:45:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Home/TO-Home' is clicked on
+
+2018-01-08 00:45:58 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Home/TO-Home' is clicked on
+
+2018-01-08 00:45:58 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-01-08 00:46:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-01-08 00:46:01 - [TEST_STEP][PASSED] - back: Navigate back successfully
+
+2018-01-08 00:46:02 - [MESSAGE][PASSED] - Navigate back successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Menu text/Home/VT-Home/VT-Home" classname="Test Cases/Header menu/Menu text/Home/VT-Home/VT-Home" status="PASSED">
+         <system-out><![CDATA[2018-01-08 00:46:02 - [TEST_CASE][PASSED] - Test Cases/Header menu/Menu text/Home/VT-Home/VT-Home: Test Cases/Header menu/Menu text/Home/VT-Home/VT-Home
+
+2018-01-08 00:46:02 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/VT-Login/VT-Login' successfully
+
+2018-01-08 00:46:02 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/VT-Login/VT-Login: Test Cases/Header menu/Login/VT-Login/VT-Login
+
+2018-01-08 00:46:02 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:46:02 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:46:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:46:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-08 00:46:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:46:06 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:46:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:46:08 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:46:09 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:46:09 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:46:19 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:46:19 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:46:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:46:21 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:46:21 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:46:21 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:46:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:46:23 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:46:23 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:46:23 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:46:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:46:25 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:46:26 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361585710.png]]
+
+2018-01-08 00:46:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:46:53 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:46:53 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:46:54 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:46:54 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:46:54 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:46:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361614142.png]]
+
+2018-01-08 00:46:54 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Home' is present on page 
+
+2018-01-08 00:46:54 - [MESSAGE][PASSED] - Text 'Home' is present on page 
+
+2018-01-08 00:46:54 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:46:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361614787.png]]
+
+2018-01-08 00:46:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/VT-Login/VT-Login' successfully
+
+2018-01-08 00:46:55 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/OR-Home/TO-Home' is clickable
+
+2018-01-08 00:46:55 - [MESSAGE][PASSED] - Object 'Object Repository/OR-Home/TO-Home' is clickable]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Menu text/Search/TS-Search/TC-Search" classname="Test Cases/Header menu/Menu text/Search/TS-Search/TC-Search" status="PASSED">
+         <system-out><![CDATA[2018-01-08 00:46:55 - [TEST_CASE][PASSED] - Test Cases/Header menu/Menu text/Search/TS-Search/TC-Search: Test Cases/Header menu/Menu text/Search/TS-Search/TC-Search
+
+2018-01-08 00:46:55 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:46:55 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:46:55 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:46:55 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-08 00:46:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:46:59 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:47:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:47:01 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:47:02 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:47:02 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:47:12 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:47:12 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:47:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:47:14 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:47:14 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:47:14 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:47:15 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:47:15 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:47:15 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:47:15 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:47:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:47:16 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:47:17 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361636836.png]]
+
+2018-01-08 00:47:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:47:40 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:47:40 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:47:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:47:41 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:47:41 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:47:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:47:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Search/TO-Search' is clicked on
+
+2018-01-08 00:47:45 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Search/TO-Search' is clicked on
+
+2018-01-08 00:47:45 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:47:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:47:47 - [TEST_STEP][PASSED] - back: Navigate back successfully
+
+2018-01-08 00:47:47 - [MESSAGE][PASSED] - Navigate back successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Menu text/Search/VT-Search/VT-Search" classname="Test Cases/Header menu/Menu text/Search/VT-Search/VT-Search" status="PASSED">
+         <system-out><![CDATA[2018-01-08 00:47:48 - [TEST_CASE][PASSED] - Test Cases/Header menu/Menu text/Search/VT-Search/VT-Search: Test Cases/Header menu/Menu text/Search/VT-Search/VT-Search
+
+2018-01-08 00:47:49 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/VT-Login/VT-Login' successfully
+
+2018-01-08 00:47:49 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/VT-Login/VT-Login: Test Cases/Header menu/Login/VT-Login/VT-Login
+
+2018-01-08 00:47:49 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:47:49 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:47:49 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:47:49 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-08 00:47:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:47:54 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:47:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:47:56 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:47:58 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:47:58 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:48:07 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:48:07 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:48:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:48:09 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:48:10 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:48:10 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:48:11 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:48:11 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:48:11 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:48:11 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:48:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:48:14 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:48:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361694271.png]]
+
+2018-01-08 00:48:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:48:48 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:48:48 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:48:48 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:48:48 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:48:48 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:48:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361728989.png]]
+
+2018-01-08 00:48:49 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Home' is present on page 
+
+2018-01-08 00:48:49 - [MESSAGE][PASSED] - Text 'Home' is present on page 
+
+2018-01-08 00:48:49 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:48:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361729373.png]]
+
+2018-01-08 00:48:49 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/VT-Login/VT-Login' successfully
+
+2018-01-08 00:48:49 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:48:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361729617.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Name dropdown/Name/LogOut/TS-LogOut/TC-LogOut" classname="Test Cases/Header menu/Name dropdown/Name/LogOut/TS-LogOut/TC-LogOut" status="PASSED">
+         <system-out><![CDATA[2018-01-08 00:48:49 - [TEST_CASE][PASSED] - Test Cases/Header menu/Name dropdown/Name/LogOut/TS-LogOut/TC-LogOut: Test Cases/Header menu/Name dropdown/Name/LogOut/TS-LogOut/TC-LogOut
+
+2018-01-08 00:48:50 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:48:50 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:48:50 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:48:50 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-08 00:48:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:48:53 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:48:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:48:55 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:48:55 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:48:55 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:49:01 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:49:01 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:49:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:49:03 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:49:04 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:49:04 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:49:05 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:49:05 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:49:05 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:49:05 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:49:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:49:07 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:49:07 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361747542.png]]
+
+2018-01-08 00:49:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:50:42 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:50:42 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:50:43 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:50:43 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:50:43 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:50:44 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:50:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-LogOut/TO-LogOut' is clicked on
+
+2018-01-08 00:50:44 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-LogOut/TO-LogOut' is clicked on
+
+2018-01-08 00:50:44 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:50:45 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:50:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-LogOut/TO-ClickLogOut' is clicked on
+
+2018-01-08 00:50:47 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-LogOut/TO-ClickLogOut' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Name dropdown/Name/LogOut/VT-LogOut/VT-LogOut" classname="Test Cases/Header menu/Name dropdown/Name/LogOut/VT-LogOut/VT-LogOut" status="FAILED">
+         <failure type="FAILED" message="Unable to verify object 'Object Repository/OR-LogOut/TO-LogOut' to be clickable (Root cause: Web element with id: 'Object Repository/OR-LogOut/TO-LogOut' located by 'By.xpath: html/body/div[2]/div/div/ul/li/a' not found)"/>
+         <system-out><![CDATA[2018-01-08 00:50:47 - [TEST_CASE][FAILED] - Test Cases/Header menu/Name dropdown/Name/LogOut/VT-LogOut/VT-LogOut: Test Cases/Header menu/Name dropdown/Name/LogOut/VT-LogOut/VT-LogOut FAILED because (of) Unable to verify object 'Object Repository/OR-LogOut/TO-LogOut' to be clickable (Root cause: Web element with id: 'Object Repository/OR-LogOut/TO-LogOut' located by 'By.xpath: html/body/div[2]/div/div/ul/li/a' not found)
+
+2018-01-08 00:50:48 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Name dropdown/Name/LogOut/TS-LogOut/TC-LogOut' successfully
+
+2018-01-08 00:50:48 - [TEST_CASE][PASSED] - Test Cases/Header menu/Name dropdown/Name/LogOut/TS-LogOut/TC-LogOut: Test Cases/Header menu/Name dropdown/Name/LogOut/TS-LogOut/TC-LogOut
+
+2018-01-08 00:50:48 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:50:48 - [TEST_CASE][PASSED] - Test Cases/Header menu/Login/TS-Login/TC-Login: Test Cases/Header menu/Login/TS-Login/TC-Login
+
+2018-01-08 00:50:48 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-08 00:50:48 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-08 00:50:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-08 00:50:51 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:50:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:50:52 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-08 00:50:53 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-08 00:50:53 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:51:06 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-08 00:51:06 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:51:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:51:07 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:51:08 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-08 00:51:08 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:51:09 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:51:09 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:51:10 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-08 00:51:10 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-08 00:51:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-08 00:51:11 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-08 00:51:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361871936.png]]
+
+2018-01-08 00:51:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:52:10 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-08 00:52:10 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:52:11 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:52:11 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Login/TS-Login/TC-Login' successfully
+
+2018-01-08 00:52:11 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:52:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:52:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-LogOut/TO-LogOut' is clicked on
+
+2018-01-08 00:52:19 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-LogOut/TO-LogOut' is clicked on
+
+2018-01-08 00:52:19 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-08 00:52:20 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-08 00:52:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-LogOut/TO-ClickLogOut' is clicked on
+
+2018-01-08 00:52:29 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-LogOut/TO-ClickLogOut' is clicked on
+
+2018-01-08 00:52:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Header menu/Name dropdown/Name/LogOut/TS-LogOut/TC-LogOut' successfully
+
+2018-01-08 00:52:29 - [TEST_STEP][FAILED] - verifyElementClickable: Unable to verify object 'Object Repository/OR-LogOut/TO-LogOut' to be clickable (Root cause: Web element with id: 'Object Repository/OR-LogOut/TO-LogOut' located by 'By.xpath: html/body/div[2]/div/div/ul/li/a' not found)
+
+2018-01-08 00:52:59 - [MESSAGE][FAILED] - Web element with id: 'Object Repository/OR-LogOut/TO-LogOut' located by 'By.xpath: html/body/div[2]/div/div/ul/li/a' not found
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361978735.png]]
+
+2018-01-08 00:52:59 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/OR-LogOut/TO-LogOut' to be clickable (Root cause: Web element with id: 'Object Repository/OR-LogOut/TO-LogOut' located by 'By.xpath: html/body/div[2]/div/div/ul/li/a' not found)
+[[ATTACHMENT|C:\\Users\\ishmael\\Katalon Studio\\GESHome\\Reports\\TS-HeaderMenu\\20180108_004047\\1515361979231.png]]]]></system-out>
+         <system-err><![CDATA[2018-01-08 00:50:47 - [TEST_CASE][FAILED] - Test Cases/Header menu/Name dropdown/Name/LogOut/VT-LogOut/VT-LogOut: Test Cases/Header menu/Name dropdown/Name/LogOut/VT-LogOut/VT-LogOut FAILED because (of) Unable to verify object 'Object Repository/OR-LogOut/TO-LogOut' to be clickable (Root cause: Web element with id: 'Object Repository/OR-LogOut/TO-LogOut' located by 'By.xpath: html/body/div[2]/div/div/ul/li/a' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-01-08 00:40:54 - [TEST_SUITE][FAILED] - TS-HeaderMenu: Test Cases/Header menu/Name dropdown/Name/LogOut/VT-LogOut/VT-LogOut FAILED because (of) Unable to verify object 'Object Repository/OR-LogOut/TO-LogOut' to be clickable (Root cause: Web element with id: 'Object Repository/OR-LogOut/TO-LogOut' located by 'By.xpath: html/body/div[2]/div/div/ul/li/a' not found)]]></system-out>
+      <system-err><![CDATA[2018-01-08 00:40:54 - [TEST_SUITE][FAILED] - TS-HeaderMenu: Test Cases/Header menu/Name dropdown/Name/LogOut/VT-LogOut/VT-LogOut FAILED because (of) Unable to verify object 'Object Repository/OR-LogOut/TO-LogOut' to be clickable (Root cause: Web element with id: 'Object Repository/OR-LogOut/TO-LogOut' located by 'By.xpath: html/body/div[2]/div/div/ul/li/a' not found)]]></system-err>
+   </testsuite>
+</testsuites>

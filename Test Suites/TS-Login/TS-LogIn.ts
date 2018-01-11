@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS-LogIn</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-01-08T23:41:26</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>6f7b1e4c-b1b4-4eba-96f4-4b961a4230b1</testSuiteGuid>
+   <testCaseLink>
+      <guid>ea148a80-d013-4523-a492-61e309f7aefb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Common/TC-Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7ea6efd2-d57b-4172-8b64-dc129881e737</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF-SuccessfulLog </testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>7ea6efd2-d57b-4172-8b64-dc129881e737</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>de5bf45c-523c-46b6-ab65-226bbe005dcb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7ea6efd2-d57b-4172-8b64-dc129881e737</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EMAIL</value>
+         <variableId>03776064-8b03-4b81-be65-25f49b3d686b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7ea6efd2-d57b-4172-8b64-dc129881e737</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>f400e93b-1ae7-48f3-8cd0-04c87cc8a53d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

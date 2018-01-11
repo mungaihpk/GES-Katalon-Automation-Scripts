@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Payment Groups</description>
+   <name>VT-EPM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>099faf70-224c-4b48-9098-2f7014ed89a8</testCaseGuid>
+</TestCaseEntity>

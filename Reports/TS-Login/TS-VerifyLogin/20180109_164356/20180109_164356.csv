@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS-VerifyLogin,Chrome 63.0.3239.132,,2018-01-09 16:44:21,2018-01-09 16:44:45,24.663s,ERROR
+,,,,,,
+Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin,Chrome 63.0.3239.132,,2018-01-09 16:44:23,2018-01-09 16:44:44,21.060s,ERROR
+openBrowser,Chrome 63.0.3239.132,,2018-01-09 16:44:27,2018-01-09 16:44:40,13.472s,PASSED
+delay,Chrome 63.0.3239.132,,2018-01-09 16:44:40,2018-01-09 16:44:43,2.147s,PASSED
+maximizeWindow,Chrome 63.0.3239.132,,2018-01-09 16:44:43,2018-01-09 16:44:44,1.315s,PASSED
+navigateToUrl,Chrome 63.0.3239.132,,2018-01-09 16:44:44,2018-01-09 16:44:44,0.002s,PASSED

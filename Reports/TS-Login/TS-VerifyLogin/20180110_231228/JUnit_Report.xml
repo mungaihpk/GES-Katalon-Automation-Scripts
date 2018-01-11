@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-VerifyLogin" time="230" tests="4" failures="0" errors="0">
+   <testsuite name="TS-VerifyLogin" tests="4" failures="0" errors="0" time="230" timestamp="2018-01-10 23:12:36" hostname="Tezza - DESKTOP-CTRD12V" id="Test Suites/TS-Login/TS-VerifyLogin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228"/>
+         <property name="logFiles" value="C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228\\1515615247570.png, C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228\\1515615283914.png, C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228\\1515615317268.png, C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228\\1515615381968.png"/>
+         <property name="hostName" value="Tezza - DESKTOP-CTRD12V"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="browser" value="Chrome 63.0.3239.132"/>
+         <property name="hostAddress" value="192.168.1.102"/>
+         <property name="sessionId" value="11dda84e7c11e502f3f7f21201cb3293"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login/VT-Login/VT-VerifyLogin - Iteration 1" classname="Test Cases/Login/VT-Login/VT-VerifyLogin" status="PASSED">
+         <system-out><![CDATA[2018-01-10 23:12:38 - [TEST_CASE][PASSED] - Test Cases/Login/VT-Login/VT-VerifyLogin - Iteration 1: Test Cases/Login/VT-Login/VT-VerifyLogin
+
+2018-01-10 23:12:40 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-10 23:13:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-10 23:13:44 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:13:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:13:46 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-10 23:13:47 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-10 23:13:47 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-10 23:13:58 - [MESSAGE][PASSED] - Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-10 23:13:58 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:14:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:14:00 - [TEST_STEP][PASSED] - setText: Text 'admin@qa.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-10 23:14:01 - [MESSAGE][PASSED] - Text 'admin@qa.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-10 23:14:01 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-10 23:14:02 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-10 23:14:02 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-10 23:14:02 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-10 23:14:02 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:14:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:14:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-10 23:14:07 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-10 23:14:07 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-10 23:14:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228\\1515615247570.png]]
+
+2018-01-10 23:14:09 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:14:11 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/VT-Login/VT-VerifyLogin - Iteration 2" classname="Test Cases/Login/VT-Login/VT-VerifyLogin" status="PASSED">
+         <system-out><![CDATA[2018-01-10 23:14:11 - [TEST_CASE][PASSED] - Test Cases/Login/VT-Login/VT-VerifyLogin - Iteration 2: Test Cases/Login/VT-Login/VT-VerifyLogin
+
+2018-01-10 23:14:11 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-10 23:14:11 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-10 23:14:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-10 23:14:18 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:14:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:14:20 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-10 23:14:21 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-10 23:14:21 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-10 23:14:30 - [MESSAGE][PASSED] - Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-10 23:14:30 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:14:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:14:32 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-10 23:14:33 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-10 23:14:33 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-10 23:14:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-10 23:14:34 - [TEST_STEP][PASSED] - setText: Text 'Test322' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-10 23:14:34 - [MESSAGE][PASSED] - Text 'Test322' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-10 23:14:34 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:14:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:14:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-10 23:14:43 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-10 23:14:43 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-10 23:14:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228\\1515615283914.png]]
+
+2018-01-10 23:14:44 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:14:46 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/VT-Login/VT-VerifyLogin - Iteration 3" classname="Test Cases/Login/VT-Login/VT-VerifyLogin" status="PASSED">
+         <system-out><![CDATA[2018-01-10 23:14:46 - [TEST_CASE][PASSED] - Test Cases/Login/VT-Login/VT-VerifyLogin - Iteration 3: Test Cases/Login/VT-Login/VT-VerifyLogin
+
+2018-01-10 23:14:46 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-10 23:14:46 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-10 23:14:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-10 23:14:52 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:14:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:14:54 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-10 23:14:55 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-10 23:14:55 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-10 23:15:09 - [MESSAGE][PASSED] - Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-10 23:15:09 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:15:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:15:11 - [TEST_STEP][PASSED] - setText: Text 'admin@test.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-10 23:15:11 - [MESSAGE][PASSED] - Text 'admin@test.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-10 23:15:11 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-10 23:15:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-10 23:15:12 - [TEST_STEP][PASSED] - setText: Text 'test123' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-10 23:15:13 - [MESSAGE][PASSED] - Text 'test123' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-10 23:15:13 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:15:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:15:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-10 23:15:17 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-10 23:15:17 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-10 23:15:17 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228\\1515615317268.png]]
+
+2018-01-10 23:15:17 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:15:19 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/VT-Login/VT-VerifyLogin - Iteration 4" classname="Test Cases/Login/VT-Login/VT-VerifyLogin" status="PASSED">
+         <system-out><![CDATA[2018-01-10 23:15:19 - [TEST_CASE][PASSED] - Test Cases/Login/VT-Login/VT-VerifyLogin - Iteration 4: Test Cases/Login/VT-Login/VT-VerifyLogin
+
+2018-01-10 23:15:20 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-10 23:15:20 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-10 23:15:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-10 23:15:27 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:15:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:15:29 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-10 23:15:30 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-10 23:15:30 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-10 23:15:42 - [MESSAGE][PASSED] - Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-10 23:15:42 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:15:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:15:44 - [TEST_STEP][PASSED] - setText: Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-10 23:15:44 - [MESSAGE][PASSED] - Text 'sheban.oduor@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-10 23:15:44 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-10 23:15:45 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-10 23:15:45 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-10 23:15:45 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-10 23:15:45 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:15:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-10 23:15:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-10 23:16:21 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-10 23:16:21 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-10 23:16:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Tezza\\Desktop\\GESHomeDemo\\Reports\\TS-Login\\TS-VerifyLogin\\20180110_231228\\1515615381968.png]]
+
+2018-01-10 23:16:22 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-10 23:16:24 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-01-10 23:12:36 - [TEST_SUITE][PASSED] - TS-VerifyLogin: Test Cases/Login/VT-Login/VT-VerifyLogin]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

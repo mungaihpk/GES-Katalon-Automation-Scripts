@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS-VerifyLogin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-01-10T23:12:28</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>0bcf57b0-9818-43af-b194-61280e212452</testSuiteGuid>
+   <testCaseLink>
+      <guid>6f45990b-3a5a-4f33-87ea-7620d65ec334</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/VT-Login/VT-VerifyLogin</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c323b245-9edc-4743-9333-c53676b14446</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF-SuccessfulLog </testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e63a5c3e-defa-4ae2-b75e-3e620b0cff71</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF-VerifyLogin </testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>e63a5c3e-defa-4ae2-b75e-3e620b0cff71</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>d0c9ffe2-1cfc-4634-b86e-e167a00b9644</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e63a5c3e-defa-4ae2-b75e-3e620b0cff71</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>459a0799-5218-4f1d-a6e3-53ad2d83e5f0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

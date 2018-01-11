@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a332c71c-79eb-4bf6-a4a9-57a1db22c35d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('DF-SuccessfulLog ').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>de5bf45c-523c-46b6-ab65-226bbe005dcb</id>
+      <masked>false</masked>
+      <name>VariableURL</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('DF-SuccessfulLog ').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>03776064-8b03-4b81-be65-25f49b3d686b</id>
+      <masked>false</masked>
+      <name>VariableEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('DF-SuccessfulLog ').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>f400e93b-1ae7-48f3-8cd0-04c87cc8a53d</id>
+      <masked>false</masked>
+      <name>VariablePassword</name>
+   </variable>
+</TestCaseEntity>

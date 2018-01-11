@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-VerifyLogin" time="566" tests="0" failures="4" errors="0">
+   <testsuite name="TS-VerifyLogin" tests="0" failures="4" errors="0" time="566" timestamp="2018-01-09 17:23:21" hostname="ishmael - sheban" id="Test Suites/TS-Login/TS-VerifyLogin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314"/>
+         <property name="logFiles" value="C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515507974450.png, C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515507975097.png, C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508142988.png, C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508143672.png, C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508219963.png, C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508221335.png, C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508365826.png, C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508366353.png"/>
+         <property name="hostName" value="ishmael - sheban"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="browser" value="Chrome 63.0.3239.132"/>
+         <property name="hostAddress" value="10.0.2.15"/>
+         <property name="sessionId" value="54abc6ff80e4ea34ee12233714969e4d"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 1" classname="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)"/>
+         <system-out><![CDATA[2018-01-09 17:23:23 - [TEST_CASE][FAILED] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 1: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)
+
+2018-01-09 17:23:26 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-09 17:23:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-09 17:23:33 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:23:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:23:35 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-09 17:23:36 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-09 17:23:36 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-09 17:26:04 - [MESSAGE][PASSED] - Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-09 17:26:04 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:26:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:26:06 - [TEST_STEP][PASSED] - setText: Text 'admin@qa.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-09 17:26:07 - [MESSAGE][PASSED] - Text 'admin@qa.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-09 17:26:07 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-09 17:26:08 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-09 17:26:08 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-09 17:26:09 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-09 17:26:09 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:26:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:26:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-09 17:26:14 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-09 17:26:14 - [TEST_STEP][FAILED] - acceptAlert: Unable to accept alert (Root cause: No alert found)
+
+2018-01-09 17:26:15 - [MESSAGE][FAILED] - No alert found
+[[ATTACHMENT|C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515507974450.png]]
+
+2018-01-09 17:26:15 - [MESSAGE][FAILED] - Unable to accept alert (Root cause: No alert found)
+[[ATTACHMENT|C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515507975097.png]]]]></system-out>
+         <system-err><![CDATA[2018-01-09 17:23:23 - [TEST_CASE][FAILED] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 1: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 2" classname="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)"/>
+         <system-out><![CDATA[2018-01-09 17:26:15 - [TEST_CASE][FAILED] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 2: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)
+
+2018-01-09 17:26:15 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-09 17:26:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-09 17:26:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-09 17:26:21 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:26:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:26:23 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-09 17:26:24 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-09 17:26:24 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-09 17:28:39 - [MESSAGE][PASSED] - Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-09 17:28:39 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:28:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:28:41 - [TEST_STEP][PASSED] - setText: Text 'dan.lafontsee+ges@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-09 17:28:42 - [MESSAGE][PASSED] - Text 'dan.lafontsee+ges@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-09 17:28:42 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-09 17:28:43 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-09 17:28:43 - [TEST_STEP][PASSED] - setText: Text 'Test322' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-09 17:28:44 - [MESSAGE][PASSED] - Text 'Test322' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-09 17:28:44 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:28:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:28:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-09 17:29:02 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-09 17:29:02 - [TEST_STEP][FAILED] - acceptAlert: Unable to accept alert (Root cause: No alert found)
+
+2018-01-09 17:29:03 - [MESSAGE][FAILED] - No alert found
+[[ATTACHMENT|C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508142988.png]]
+
+2018-01-09 17:29:04 - [MESSAGE][FAILED] - Unable to accept alert (Root cause: No alert found)
+[[ATTACHMENT|C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508143672.png]]]]></system-out>
+         <system-err><![CDATA[2018-01-09 17:26:15 - [TEST_CASE][FAILED] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 2: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 3" classname="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)"/>
+         <system-out><![CDATA[2018-01-09 17:29:04 - [TEST_CASE][FAILED] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 3: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)
+
+2018-01-09 17:29:04 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-09 17:29:04 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-09 17:29:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-09 17:29:11 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:29:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:29:13 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-09 17:29:15 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-09 17:29:15 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-09 17:30:11 - [MESSAGE][PASSED] - Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-09 17:30:11 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:30:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:30:13 - [TEST_STEP][PASSED] - setText: Text 'admin@test.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-09 17:30:13 - [MESSAGE][PASSED] - Text 'admin@test.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-09 17:30:13 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-09 17:30:14 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-09 17:30:14 - [TEST_STEP][PASSED] - setText: Text 'test123' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-09 17:30:15 - [MESSAGE][PASSED] - Text 'test123' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-09 17:30:15 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:30:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:30:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-09 17:30:19 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-09 17:30:19 - [TEST_STEP][FAILED] - acceptAlert: Unable to accept alert (Root cause: No alert found)
+
+2018-01-09 17:30:21 - [MESSAGE][FAILED] - No alert found
+[[ATTACHMENT|C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508219963.png]]
+
+2018-01-09 17:30:22 - [MESSAGE][FAILED] - Unable to accept alert (Root cause: No alert found)
+[[ATTACHMENT|C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508221335.png]]]]></system-out>
+         <system-err><![CDATA[2018-01-09 17:29:04 - [TEST_CASE][FAILED] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 3: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 4" classname="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)"/>
+         <system-out><![CDATA[2018-01-09 17:30:22 - [TEST_CASE][FAILED] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 4: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)
+
+2018-01-09 17:30:22 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-09 17:30:22 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-09 17:30:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-09 17:30:27 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:30:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:30:29 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-09 17:30:31 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-09 17:30:31 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-09 17:30:53 - [MESSAGE][PASSED] - Navigate to 'http://login.dcpenterprisesystem-qa.com/' successfully
+
+2018-01-09 17:30:53 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:30:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:30:55 - [TEST_STEP][PASSED] - setText: Text 'dan.lafontsee+ges@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-09 17:30:56 - [MESSAGE][PASSED] - Text 'dan.lafontsee+ges@technekes.com' is set on object 'Object Repository/OR-Login/TO-Username'
+
+2018-01-09 17:30:56 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-09 17:30:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-09 17:30:57 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-09 17:30:58 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/TO-Password'
+
+2018-01-09 17:30:58 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-09 17:31:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-09 17:31:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-09 17:32:45 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/TO-LoginButton' is clicked on
+
+2018-01-09 17:32:45 - [TEST_STEP][FAILED] - acceptAlert: Unable to accept alert (Root cause: No alert found)
+
+2018-01-09 17:32:46 - [MESSAGE][FAILED] - No alert found
+[[ATTACHMENT|C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508365826.png]]
+
+2018-01-09 17:32:46 - [MESSAGE][FAILED] - Unable to accept alert (Root cause: No alert found)
+[[ATTACHMENT|C:\\Users\\ishmael\\Desktop\\GESHome\\Reports\\TS-Login\\TS-VerifyLogin\\20180109_172314\\1515508366353.png]]]]></system-out>
+         <system-err><![CDATA[2018-01-09 17:30:22 - [TEST_CASE][FAILED] - Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin - Iteration 4: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-01-09 17:23:21 - [TEST_SUITE][FAILED] - TS-VerifyLogin: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)]]></system-out>
+      <system-err><![CDATA[2018-01-09 17:23:21 - [TEST_SUITE][FAILED] - TS-VerifyLogin: Test Cases/Header menu/Login/VT-Login/VT-VerifyLogin FAILED because (of) Unable to accept alert (Root cause: No alert found)]]></system-err>
+   </testsuite>
+</testsuites>
