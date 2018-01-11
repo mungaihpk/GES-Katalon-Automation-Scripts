@@ -29,17 +29,17 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('Object Repository/OR-Login/TO-Username'), VariableEmail)
+WebUI.setText(findTestObject('OR-Login/input-Username'), VariableEmail)
 
 WebUI.delay(1)
 
-WebUI.setText(findTestObject('OR-Login/TO-Password'), VariablePassword)
+WebUI.setText(findTestObject('OR-Login/input-Password'), VariablePassword)
 
 WebUI.delay(2)
 
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/OR-Login/TO-LoginButton'))
+WebUI.click(findTestObject('OR-Login/btn-Login'))
 
 WebUI.delay(1)
 

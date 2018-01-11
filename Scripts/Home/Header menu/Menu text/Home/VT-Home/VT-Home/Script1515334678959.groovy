@@ -19,27 +19,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Login/VT-Login/VT-Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(2)
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl(GlobalVariable.URL)
-
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('OR-Login/input-Username'), Email)
-
-WebUI.delay(1)
-
-WebUI.setText(findTestObject('OR-Login/input-Password'), Password)
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OR-Login/btn-Login'))
-
-WebUI.takeScreenshot()
-
-WebUI.delay(2)
+WebUI.verifyElementClickable(findTestObject('OR-Home/link-Home'))
 
