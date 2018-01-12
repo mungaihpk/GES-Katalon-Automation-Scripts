@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TST-Search-ID" time="265" tests="3" failures="0" errors="0">
+   <testsuite name="TST-Search-ID" tests="3" failures="0" errors="0" time="265" timestamp="2018-01-12 19:18:11" hostname="Tezza - DESKTOP-CTRD12V" id="Test Suites/Home/TST-Search-ID">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Tezza\\Desktop\\DuPont-GES\\ges-automation\\Reports\\Home\\TST-Search-ID\\20180112_191756"/>
+         <property name="logFiles" value="C:\\Users\\Tezza\\Desktop\\DuPont-GES\\ges-automation\\Reports\\Home\\TST-Search-ID\\20180112_191756\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Tezza\\Desktop\\DuPont-GES\\ges-automation\\Reports\\Home\\TST-Search-ID\\20180112_191756\\1515774012802.png, C:\\Users\\Tezza\\Desktop\\DuPont-GES\\ges-automation\\Reports\\Home\\TST-Search-ID\\20180112_191756\\1515774073710.png, C:\\Users\\Tezza\\Desktop\\DuPont-GES\\ges-automation\\Reports\\Home\\TST-Search-ID\\20180112_191756\\1515774123023.png"/>
+         <property name="hostName" value="Tezza - DESKTOP-CTRD12V"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="browser" value="Chrome 63.0.3239.132"/>
+         <property name="hostAddress" value="192.168.1.100"/>
+         <property name="sessionId" value="6060fbdf59513cc8d78bdbdb4b9b5f1b"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Home/Table/Search-ID/TC-Search-ID - Iteration 1" classname="Test Cases/Home/Table/Search-ID/TC-Search-ID" status="PASSED">
+         <system-out><![CDATA[2018-01-12 19:18:12 - [TEST_CASE][PASSED] - Test Cases/Home/Table/Search-ID/TC-Search-ID - Iteration 1: Test Cases/Home/Table/Search-ID/TC-Search-ID
+
+2018-01-12 19:18:13 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Login/Common/TC-Login' successfully
+
+2018-01-12 19:18:17 - [TEST_CASE][PASSED] - Test Cases/Login/Common/TC-Login: Test Cases/Login/Common/TC-Login
+
+2018-01-12 19:18:18 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-12 19:19:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-12 19:19:22 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-12 19:19:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-12 19:19:24 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-12 19:19:26 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-12 19:19:26 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-12 19:19:59 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-12 19:19:59 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-12 19:20:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-12 19:20:01 - [TEST_STEP][PASSED] - setText: Text 'dan.lafontsee+bu@technekes.com' is set on object 'Object Repository/OR-Login/input-Username'
+
+2018-01-12 19:20:08 - [MESSAGE][PASSED] - Text 'dan.lafontsee+bu@technekes.com' is set on object 'Object Repository/OR-Login/input-Username'
+
+2018-01-12 19:20:08 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-12 19:20:09 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-12 19:20:09 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/input-Password'
+
+2018-01-12 19:20:10 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/input-Password'
+
+2018-01-12 19:20:10 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-12 19:20:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-12 19:20:12 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-12 19:20:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Tezza\\Desktop\\DuPont-GES\\ges-automation\\Reports\\Home\\TST-Search-ID\\20180112_191756\\1515774012802.png]]
+
+2018-01-12 19:20:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/btn-Login' is clicked on
+
+2018-01-12 19:20:34 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/btn-Login' is clicked on
+
+2018-01-12 19:20:34 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-12 19:20:35 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-12 19:20:35 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/Common/TC-Login' successfully
+
+2018-01-12 19:20:35 - [TEST_STEP][PASSED] - scrollToPosition: Browser is scrolled to position x = 0, y = 5
+
+2018-01-12 19:20:35 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 5
+
+2018-01-12 19:20:35 - [TEST_STEP][PASSED] - setText: Text '1091504' is set on object 'Object Repository/Home/OR-Search/txt-search'
+
+2018-01-12 19:20:38 - [MESSAGE][PASSED] - Text '1091504' is set on object 'Object Repository/Home/OR-Search/txt-search'
+
+2018-01-12 19:20:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home/OR-Search/btn-search' is clicked on
+
+2018-01-12 19:20:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Home/OR-Search/btn-search' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Home/Table/Search-ID/TC-Search-ID - Iteration 2" classname="Test Cases/Home/Table/Search-ID/TC-Search-ID" status="PASSED">
+         <system-out><![CDATA[2018-01-12 19:20:38 - [TEST_CASE][PASSED] - Test Cases/Home/Table/Search-ID/TC-Search-ID - Iteration 2: Test Cases/Home/Table/Search-ID/TC-Search-ID
+
+2018-01-12 19:20:39 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Login/Common/TC-Login' successfully
+
+2018-01-12 19:20:39 - [TEST_CASE][PASSED] - Test Cases/Login/Common/TC-Login: Test Cases/Login/Common/TC-Login
+
+2018-01-12 19:20:39 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-12 19:20:39 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-12 19:20:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-12 19:20:55 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-12 19:20:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-12 19:20:57 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-12 19:20:58 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-12 19:20:58 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-12 19:21:07 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-12 19:21:07 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-12 19:21:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-12 19:21:09 - [TEST_STEP][PASSED] - setText: Text 'dan.lafontsee+bu@technekes.com' is set on object 'Object Repository/OR-Login/input-Username'
+
+2018-01-12 19:21:10 - [MESSAGE][PASSED] - Text 'dan.lafontsee+bu@technekes.com' is set on object 'Object Repository/OR-Login/input-Username'
+
+2018-01-12 19:21:10 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-12 19:21:11 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-12 19:21:11 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/input-Password'
+
+2018-01-12 19:21:11 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/input-Password'
+
+2018-01-12 19:21:11 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-12 19:21:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-12 19:21:13 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-12 19:21:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Tezza\\Desktop\\DuPont-GES\\ges-automation\\Reports\\Home\\TST-Search-ID\\20180112_191756\\1515774073710.png]]
+
+2018-01-12 19:21:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/btn-Login' is clicked on
+
+2018-01-12 19:21:36 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/btn-Login' is clicked on
+
+2018-01-12 19:21:36 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-12 19:21:37 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-12 19:21:37 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/Common/TC-Login' successfully
+
+2018-01-12 19:21:37 - [TEST_STEP][PASSED] - scrollToPosition: Browser is scrolled to position x = 0, y = 5
+
+2018-01-12 19:21:37 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 5
+
+2018-01-12 19:21:37 - [TEST_STEP][PASSED] - setText: Text '1177434' is set on object 'Object Repository/Home/OR-Search/txt-search'
+
+2018-01-12 19:21:38 - [MESSAGE][PASSED] - Text '1177434' is set on object 'Object Repository/Home/OR-Search/txt-search'
+
+2018-01-12 19:21:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home/OR-Search/btn-search' is clicked on
+
+2018-01-12 19:21:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Home/OR-Search/btn-search' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Home/Table/Search-ID/TC-Search-ID - Iteration 3" classname="Test Cases/Home/Table/Search-ID/TC-Search-ID" status="PASSED">
+         <system-out><![CDATA[2018-01-12 19:21:38 - [TEST_CASE][PASSED] - Test Cases/Home/Table/Search-ID/TC-Search-ID - Iteration 3: Test Cases/Home/Table/Search-ID/TC-Search-ID
+
+2018-01-12 19:21:38 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Login/Common/TC-Login' successfully
+
+2018-01-12 19:21:39 - [TEST_CASE][PASSED] - Test Cases/Login/Common/TC-Login: Test Cases/Login/Common/TC-Login
+
+2018-01-12 19:21:39 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-01-12 19:21:39 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-01-12 19:21:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-01-12 19:21:45 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-12 19:21:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-12 19:21:47 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-12 19:21:49 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-12 19:21:49 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-12 19:21:56 - [MESSAGE][PASSED] - Navigate to 'http://dcpenterprisesystem-qa.com/' successfully
+
+2018-01-12 19:21:56 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-12 19:21:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-12 19:21:58 - [TEST_STEP][PASSED] - setText: Text 'dan.lafontsee+bu@technekes.com' is set on object 'Object Repository/OR-Login/input-Username'
+
+2018-01-12 19:21:59 - [MESSAGE][PASSED] - Text 'dan.lafontsee+bu@technekes.com' is set on object 'Object Repository/OR-Login/input-Username'
+
+2018-01-12 19:21:59 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-12 19:22:00 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-12 19:22:00 - [TEST_STEP][PASSED] - setText: Text 'Test925' is set on object 'Object Repository/OR-Login/input-Password'
+
+2018-01-12 19:22:01 - [MESSAGE][PASSED] - Text 'Test925' is set on object 'Object Repository/OR-Login/input-Password'
+
+2018-01-12 19:22:01 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-01-12 19:22:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-01-12 19:22:03 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-12 19:22:04 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Tezza\\Desktop\\DuPont-GES\\ges-automation\\Reports\\Home\\TST-Search-ID\\20180112_191756\\1515774123023.png]]
+
+2018-01-12 19:22:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OR-Login/btn-Login' is clicked on
+
+2018-01-12 19:22:33 - [MESSAGE][PASSED] - Object: 'Object Repository/OR-Login/btn-Login' is clicked on
+
+2018-01-12 19:22:33 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-01-12 19:22:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-01-12 19:22:34 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/Common/TC-Login' successfully
+
+2018-01-12 19:22:34 - [TEST_STEP][PASSED] - scrollToPosition: Browser is scrolled to position x = 0, y = 5
+
+2018-01-12 19:22:34 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 5
+
+2018-01-12 19:22:34 - [TEST_STEP][PASSED] - setText: Text '43520' is set on object 'Object Repository/Home/OR-Search/txt-search'
+
+2018-01-12 19:22:35 - [MESSAGE][PASSED] - Text '43520' is set on object 'Object Repository/Home/OR-Search/txt-search'
+
+2018-01-12 19:22:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home/OR-Search/btn-search' is clicked on
+
+2018-01-12 19:22:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Home/OR-Search/btn-search' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-01-12 19:18:11 - [TEST_SUITE][PASSED] - TST-Search-ID: Test Cases/Home/Table/Search-ID/TC-Search-ID]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -21,7 +21,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('Login/Common/TC-Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OR-Home/link-Home'))
+WebUI.click(findTestObject('Home/OR-Home/link-Home'))
 
 WebUI.delay(3)
 

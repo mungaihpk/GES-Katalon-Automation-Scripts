@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Search-Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec17b77d-4b35-474b-9c85-c70fdb1fd485</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Grower Names-ID').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>03d6da4c-b4d4-4dc7-be80-97f5aa62a6ef</id>
+      <masked>false</masked>
+      <name>var_name</name>
+   </variable>
+</TestCaseEntity>

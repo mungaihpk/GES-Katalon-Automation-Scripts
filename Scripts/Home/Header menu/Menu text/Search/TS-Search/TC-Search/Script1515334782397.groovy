@@ -23,7 +23,7 @@ WebUI.callTestCase(findTestCase('Login/Common/TC-Login'), [:], FailureHandling.S
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OR-Search/link-Search'))
+WebUI.click(findTestObject('Home/OR-Search/link-Search'))
 
 WebUI.delay(2)
 

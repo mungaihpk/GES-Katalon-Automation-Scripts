@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VT-Search-ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33973849-7d15-464c-8a7f-9a0d19cce7c6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Grower Names-ID').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>03573076-1292-4069-94ed-bef48fdbf201</id>
+      <masked>false</masked>
+      <name>var_id</name>
+   </variable>
+</TestCaseEntity>
