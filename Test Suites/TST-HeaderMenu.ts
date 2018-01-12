@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS-HeaderMenu</name>
+   <name>TST-HeaderMenu</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <lastRun>2018-01-08T00:40:47</lastRun>
