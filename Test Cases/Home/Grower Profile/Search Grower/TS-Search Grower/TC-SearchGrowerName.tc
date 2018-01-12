@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that a Grower is searchable by name</description>
+   <name>TC-SearchGrowerName</name>
+   <tag>searchGrower</tag>
+   <comment></comment>
+   <testCaseGuid>7f6d6d39-d727-4c36-a4f9-ec29aa724037</testCaseGuid>
+</TestCaseEntity>

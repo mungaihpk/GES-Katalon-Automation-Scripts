@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>b2a93386-8373-41e5-9f62-430653942b9c</dataFileGUID>
-   <dataSourceUrl>C:\Users\Tezza\Desktop\DuPont-GES\ges-automation\Data Files\DF-SuccessfulLog.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\ishmael\Desktop\ges-automation\Data Files\DF-SuccessfulLog.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
