@@ -21,9 +21,9 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('Home/Header menu/Name dropdown/Name/LogOut/TS-LogOut/TC-LogOut'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementClickable(findTestObject('OR-LogOut/btn-LogOut'))
+WebUI.verifyElementClickable(findTestObject('Home/OR-LogOut/btn-LogOut'))
 
-WebUI.verifyElementClickable(findTestObject('OR-LogOut/btn-ClickLogOut'))
+WebUI.verifyElementClickable(findTestObject('Home/OR-LogOut/btn-ClickLogOut'))
 
 WebUI.verifyTextPresent('Login', false)
 

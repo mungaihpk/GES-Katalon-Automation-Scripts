@@ -23,9 +23,9 @@ WebUI.callTestCase(findTestCase('Login/Common/TC-Login'), [:], FailureHandling.S
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('OR-LogOut/btn-LogOut'))
+WebUI.click(findTestObject('Home/OR-LogOut/btn-LogOut'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('OR-LogOut/btn-ClickLogOut'))
+WebUI.click(findTestObject('Home/OR-LogOut/btn-ClickLogOut'))
 

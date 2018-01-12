@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VT-NeedHelp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2beb5f99-8545-4839-94e8-5cb8fe1ae327</testCaseGuid>
+   <variable>
+      <defaultValue>'Support: 888.747.8047'</defaultValue>
+      <description></description>
+      <id>95d00316-887c-4b68-9f34-b01ebc89b883</id>
+      <masked>false</masked>
+      <name>NeedHelp</name>
+   </variable>
+</TestCaseEntity>

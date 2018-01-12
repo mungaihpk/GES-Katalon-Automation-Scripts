@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VT-TCA Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e52767f6-1b7d-4c0c-9e0a-447e9e149f5e</testCaseGuid>
+   <variable>
+      <defaultValue>'TCA Dashboard'</defaultValue>
+      <description></description>
+      <id>318e3c28-2b7c-4e0e-9a3b-0a0e2665d9a3</id>
+      <masked>false</masked>
+      <name>var_txt</name>
+   </variable>
+</TestCaseEntity>

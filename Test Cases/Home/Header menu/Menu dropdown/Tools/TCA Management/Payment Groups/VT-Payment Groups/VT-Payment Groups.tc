@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VT-Payment Groups</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a23844ac-561f-4dc8-b29d-331a88dbb83d</testCaseGuid>
+   <variable>
+      <defaultValue>'Payment Group Builder'</defaultValue>
+      <description></description>
+      <id>a9624707-1653-4813-bab1-933e17bd199b</id>
+      <masked>false</masked>
+      <name>var_paymentgroups</name>
+   </variable>
+</TestCaseEntity>

@@ -21,5 +21,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('Login/VT-Login/VT-Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementClickable(findTestObject('OR-Home/link-Home'))
+WebUI.verifyElementClickable(findTestObject('Home/OR-Home/link-Home'))
 

@@ -19,3 +19,15 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.callTestCase(findTestCase('Login/Common/TC-Login'), [('VariableURL') : findTestData('DF-SuccessfulLog ').getValue(
+            1, 1), ('VariableEmail') : findTestData('DF-SuccessfulLog ').getValue(2, 1), ('VariablePassword') : findTestData(
+            'DF-SuccessfulLog ').getValue(3, 1)], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Home/OR-Tools/select-tools'))
+
+WebUI.delay(2)
+
+WebUI.selectOptionByLabel(findTestObject('Home/OR-Tools/select-EPM'), 'EPM', false)
+
+WebUI.verifyTextPresent(VarEPMPage, false)
+

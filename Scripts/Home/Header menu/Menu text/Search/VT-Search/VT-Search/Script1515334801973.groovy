@@ -23,7 +23,7 @@ WebUI.callTestCase(findTestCase('Login/Common/TC-Login'), [('VariableURL') : fin
         , ('VariableEmail') : findTestData('DF-SuccessfulLog ').getValue(2, 1), ('VariablePassword') : findTestData('DF-SuccessfulLog ').getValue(3, 1)], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OR-Search/link-Search'))
+WebUI.click(findTestObject('Home/OR-Search/link-Search'))
 
 WebUI.takeScreenshot()
 
