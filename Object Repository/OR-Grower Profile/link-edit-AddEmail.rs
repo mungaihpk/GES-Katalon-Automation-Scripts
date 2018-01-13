@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link-edit-AddEmail</name>
+   <tag></tag>
+   <elementGuidId>0761737b-5b19-41ca-81b4-a90e007d9798</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>.//*[@id='edit_mdb_company_2561385']/div[2]/div/div/div[5]/div/p/a</value>
+   </webElementProperties>
+</WebElementEntity>
