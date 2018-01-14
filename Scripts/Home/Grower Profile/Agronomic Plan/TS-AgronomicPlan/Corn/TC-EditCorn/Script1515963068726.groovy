@@ -31,19 +31,19 @@ WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/select-Year'))
 
 WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/tab-Corn'))
 
-WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Edit Corn/input-ApplicationAcre'), '30')
+WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Edit Corn/input-ApplicationAcre'), '30')
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Edit Corn/select-Product'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Edit Corn/select-Product'))
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Edit Corn/select-ProductName'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Edit Corn/select-ProductName'))
 
-WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Edit Corn/input-ApplicationRate'), '45')
+WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Edit Corn/input-ApplicationRate'), '45')
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Edit Corn/select-UOM'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Edit Corn/select-UOM'))
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Edit Corn/btn-AddCorn'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Edit Corn/btn-AddCorn'))
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Edit Corn/btn-EditCorn'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Edit Corn/btn-EditCorn'))
 
-WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Edit Corn/input-AvailableRate'), '3.13')
+WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Edit Corn/input-AvailableRate'), '3.13')
 

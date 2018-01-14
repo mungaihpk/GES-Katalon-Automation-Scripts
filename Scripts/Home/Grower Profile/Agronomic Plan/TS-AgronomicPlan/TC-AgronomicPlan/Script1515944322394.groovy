@@ -39,29 +39,29 @@ WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/tab-Corn'))
 
 WebUI.delay(1)
 
-WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Delete Corn/input-ApplicationAcre'), '20')
+WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Delete Corn/input-ApplicationAcre'), '20')
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Delete Corn/select-Product'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Delete Corn/select-Product'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Delete Corn/select-ProductName'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Delete Corn/select-ProductName'))
 
 WebUI.delay(1)
 
-WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Delete Corn/input-ApplicationRate'), '44')
+WebUI.setText(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Delete Corn/input-ApplicationRate'), '44')
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Delete Corn/select-UOM'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Delete Corn/select-UOM'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Delete Corn/btn-AddCorn'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Delete Corn/btn-AddCorn'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Delete Corn/btn-DeleteCorn'))
+WebUI.click(findTestObject('OR-Grower Profile/Agronomic Tab/Corn/Delete Corn/btn-DeleteCorn'))
 
