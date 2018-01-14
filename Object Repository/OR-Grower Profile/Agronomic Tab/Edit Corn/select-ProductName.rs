@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>link-edit-AddAddress</name>
+   <name>select-ProductName</name>
    <tag></tag>
-   <elementGuidId>82ee41ae-71fe-41fe-bf62-983e183ea196</elementGuidId>
+   <elementGuidId>38f12893-30ba-4ce0-9bbd-7fd6fe33bd91</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id='edit_mdb_company_2561385']/div[2]/div/div/div[3]/div/p/a</value>
+      <value>//*[@id=&quot;intention_product_select0_chzn_o_4&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

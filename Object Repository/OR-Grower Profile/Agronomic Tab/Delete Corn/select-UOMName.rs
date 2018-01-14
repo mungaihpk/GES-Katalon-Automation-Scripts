@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>link-edit-AddAddress</name>
+   <name>select-UOMName</name>
    <tag></tag>
-   <elementGuidId>82ee41ae-71fe-41fe-bf62-983e183ea196</elementGuidId>
+   <elementGuidId>c17aa14a-966b-4c3c-bd3e-df522bde52af</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -15,8 +15,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>id</name>
       <type>Main</type>
-      <value>//*[@id='edit_mdb_company_2561385']/div[2]/div/div/div[3]/div/p/a</value>
+      <value>intention_uom_select</value>
    </webElementProperties>
 </WebElementEntity>

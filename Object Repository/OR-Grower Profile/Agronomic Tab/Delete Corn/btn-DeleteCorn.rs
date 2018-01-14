@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>link-edit-AddAddress</name>
+   <name>btn-DeleteCorn</name>
    <tag></tag>
-   <elementGuidId>82ee41ae-71fe-41fe-bf62-983e183ea196</elementGuidId>
+   <elementGuidId>bd8f7e46-ac25-4357-9108-6afa3b69b59b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id='edit_mdb_company_2561385']/div[2]/div/div/div[3]/div/p/a</value>
+      <value>.//*[@id='Corn']/div/table/tbody/tr/td[4]/button[1]</value>
    </webElementProperties>
 </WebElementEntity>

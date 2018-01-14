@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>link-edit-AddAddress</name>
+   <name>input-ApplicationRate</name>
    <tag></tag>
-   <elementGuidId>82ee41ae-71fe-41fe-bf62-983e183ea196</elementGuidId>
+   <elementGuidId>3ba95cff-2eb4-4ecb-b371-db17c7bc4661</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+         <value>.//*[@id='edit_mdb_company_2561385']/div[2]/div/div/div[3]/div/p/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id='edit_mdb_company_2561385']/div[2]/div/div/div[3]/div/p/a</value>
+      <value>/html/body/div[3]/div/div[2]/div/div/div/div[1]/div/div[4]/div/div[1]/div[2]/div/form/div[2]/div[2]/input</value>
    </webElementProperties>
 </WebElementEntity>
